@@ -12,6 +12,7 @@ requires = [
     'plaster_pastedeploy',
     'pyramid',
     'pyramid_jinja2',
+    'docutils',
     'pyramid_debugtoolbar',
     'waitress',
     'alembic',

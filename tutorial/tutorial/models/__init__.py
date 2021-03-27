@@ -89,7 +89,7 @@ def includeme(config):
     """
     Initialize the model for a Pyramid app.
 
-    Activate this setup using ``config.include('sqla_demo.models')``.
+    Activate this setup using ``config.include('tutorial.models')``.
 
     """
     settings = config.get_settings()
